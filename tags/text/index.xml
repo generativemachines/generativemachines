@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>text on Generative Machines</title>
-    <link>http://generativemachines.com/tags/text/</link>
+    <link>/tags/text/</link>
     <description>Recent content in text on Generative Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 13 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://generativemachines.com/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/text/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Placeholder Text</title>
-      <link>http://generativemachines.com/blog/placeholder-text/</link>
+      <link>/blog/placeholder-text/</link>
       <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://generativemachines.com/blog/placeholder-text/</guid>
+      <guid>/blog/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     

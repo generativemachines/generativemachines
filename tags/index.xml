@@ -2,89 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Generative Machines</title>
-    <link>http://generativemachines.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Generative Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://generativemachines.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>news</title>
-      <link>http://generativemachines.com/tags/news/</link>
+      <link>/tags/news/</link>
       <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://generativemachines.com/tags/news/</guid>
+      <guid>/tags/news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>product</title>
-      <link>http://generativemachines.com/tags/product/</link>
+      <link>/tags/product/</link>
       <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://generativemachines.com/tags/product/</guid>
+      <guid>/tags/product/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>http://generativemachines.com/tags/emoji/</link>
+      <link>/tags/emoji/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://generativemachines.com/tags/emoji/</guid>
+      <guid>/tags/emoji/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>http://generativemachines.com/tags/css/</link>
+      <link>/tags/css/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://generativemachines.com/tags/css/</guid>
+      <guid>/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>http://generativemachines.com/tags/html/</link>
+      <link>/tags/html/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://generativemachines.com/tags/html/</guid>
+      <guid>/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>http://generativemachines.com/tags/markdown/</link>
+      <link>/tags/markdown/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://generativemachines.com/tags/markdown/</guid>
+      <guid>/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacy</title>
-      <link>http://generativemachines.com/tags/privacy/</link>
+      <link>/tags/privacy/</link>
       <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://generativemachines.com/tags/privacy/</guid>
+      <guid>/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>http://generativemachines.com/tags/shortcodes/</link>
+      <link>/tags/shortcodes/</link>
       <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://generativemachines.com/tags/shortcodes/</guid>
+      <guid>/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>http://generativemachines.com/tags/text/</link>
+      <link>/tags/text/</link>
       <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://generativemachines.com/tags/text/</guid>
+      <guid>/tags/text/</guid>
       <description></description>
     </item>
     

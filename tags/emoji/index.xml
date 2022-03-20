@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>emoji on Generative Machines</title>
-    <link>http://generativemachines.com/tags/emoji/</link>
+    <link>/tags/emoji/</link>
     <description>Recent content in emoji on Generative Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://generativemachines.com/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emoji Support</title>
-      <link>http://generativemachines.com/blog/emoji-support/</link>
+      <link>/blog/emoji-support/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://generativemachines.com/blog/emoji-support/</guid>
+      <guid>/blog/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
