@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Generative Machines</title>
+    <link>http://generative-machines.com/</link>
+    <description>Recent content on Generative Machines</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://generative-machines.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>http://generative-machines.com/page/about/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://generative-machines.com/page/about/</guid>
+      <description>We are a small research and development studio based in the United Kingdom. We specialise in technology research and development for the creative industries, defence and training sectors. Our aim is to create tools and technologies to help content creators and developers of all sizes achieve their best producivity and creativity. We employ cutting edge research in our work and aim for the maximum usability in whatever we develop.
+Our key research and development competence areas revolve around:</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>http://generative-machines.com/page/contact/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://generative-machines.com/page/contact/</guid>
+      <description>You can contact us via social media at the foot of this page, or by filling out this form:</description>
+    </item>
+    
+    <item>
+      <title>Speech Machine</title>
+      <link>http://generative-machines.com/products/speechmachine/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://generative-machines.com/products/speechmachine/</guid>
+      <description>Speech Machine is our latest Unreal Engine plugin in development for sale on the Unreal Engine marketplace.
+Speech Machine uses the latest in AI generated voices via the Azure Cognitive Services cloud platform to deliver high quality generative voice capabilities to Unreal Engine characters.
+Our plugin offers the following features
+ Text-to-speech Speech-to-text Localization Dialogue generation  Text to speech Allows us to take localized text, either from a spreadsheet or via an Unreal Engine asset and generate natural sounding voices in many different languages and with many different voices utiliting the AI powered voices of the Azure Cognitive services.</description>
+    </item>
+    
+    <item>
+      <title>Speech Machine In Development</title>
+      <link>http://generative-machines.com/news/speechmachine-news/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://generative-machines.com/news/speechmachine-news/</guid>
+      <description>We are currently developing a range of Machine Learning and Cloud enabled plug-in&amp;rsquo;s and tools for various game engines, such as Unreal Engine and Unity.
+Speech Machine is an Unreal Engine plugin that uses Azure Cognitive Services to empower Unreal Engine games and applications with the power of speech, using text-to-speech and speech-to-text capabilities, along with powerful machine learning natural language understanding, you can create natural sounding responses to player/user inputs.</description>
+    </item>
+    
+    <item>
+      <title>Secret Projects</title>
+      <link>http://generative-machines.com/news/metaverse-news/</link>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://generative-machines.com/news/metaverse-news/</guid>
+      <description>We have a number of Virtual and Augmented Reality demonstration applications in development for a potential defence training partner.
+Development mainly lies around training and defence initiatives including:
+ Sattellite surveillance GPS tracking and visualization UI/UX advances for big data vizualization and utilization  </description>
+    </item>
+    
+    <item>
+      <title>VideoGrapher</title>
+      <link>http://generative-machines.com/news/videographer-news/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://generative-machines.com/news/videographer-news/</guid>
+      <description>We have a secret project three underway. News to follow soon.</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>http://generative-machines.com/blog/emoji-support/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://generative-machines.com/blog/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://generative-machines.com/blog/markdown-syntax/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://generative-machines.com/blog/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>http://generative-machines.com/blog/math-typesetting/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://generative-machines.com/blog/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>http://generative-machines.com/blog/placeholder-text/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://generative-machines.com/blog/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>http://generative-machines.com/blog/rich-content/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://generative-machines.com/blog/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
