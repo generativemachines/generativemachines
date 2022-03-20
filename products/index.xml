@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Our Products on Generative Machines</title>
-    <link>http://generative-machines.com/products/</link>
+    <link>http://generativemachines.com/products/</link>
     <description>Recent content in Our Products on Generative Machines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://generative-machines.com/products/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://generativemachines.com/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Speech Machine</title>
-      <link>http://generative-machines.com/products/speechmachine/</link>
+      <link>http://generativemachines.com/products/speechmachine/</link>
       <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://generative-machines.com/products/speechmachine/</guid>
+      <guid>http://generativemachines.com/products/speechmachine/</guid>
       <description>Speech Machine is our latest Unreal Engine plugin in development for sale on the Unreal Engine marketplace.
 Speech Machine uses the latest in AI generated voices via the Azure Cognitive Services cloud platform to deliver high quality generative voice capabilities to Unreal Engine characters.
 Our plugin offers the following features
