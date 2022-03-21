@@ -16,7 +16,7 @@
       <description>Speech Machine is our latest Unreal Engine plugin in development for sale on the Unreal Engine marketplace.
 Speech Machine uses the latest in AI generated voices via the Azure Cognitive Services cloud platform to deliver high quality generative voice capabilities to Unreal Engine characters.
 Our plugin offers the following features
- Text-to-speech Speech-to-text Localization Dialogue generation  Text to speech Allows us to take localized text, either from a spreadsheet or via an Unreal Engine asset and generate natural sounding voices in many different languages and with many different voices utiliting the AI powered voices of the Azure Cognitive services.</description>
+ Text-to-speech Speech-to-text Localization Dialogue generation  Text to speech Allows us to take localized text, either from a spreadsheet or via an Unreal Engine asset and generate natural sounding voices in many different languages and with many different voices.</description>
     </item>
     
   </channel>
