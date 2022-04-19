@@ -263,6 +263,8 @@
 
 
 <script>
+  document.documentElement.classList.add('dark');
+  localStorage.setItem('darkmode', 'dark')
   
   const darkmode = document.querySelector('.toggle-dark-mode');
   function toggleDarkMode() {
